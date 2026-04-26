@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lifechor001.aternos.me",
-    "port": 36485,
+    "ip": "free3.vektalnodes.in",
+    "port": 25519,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
